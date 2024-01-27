@@ -23,7 +23,7 @@ wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && sud
 ## Instalar o repositorio do github (Instalação direta)
 
 ```
-sudo apt install -y git && git clone https://github.com/andersonsilva87/whaticket-install-chatplus && sudo chmod -R 777 whaticket-install-chatplus && cd whaticket-install-chatplus && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/mauriliolopesjunior/whaticket-install-chatplus && sudo chmod -R 777 whaticket-install-chatplus && cd whaticket-install-chatplus && sudo ./install_primaria
 ```
 
 ## Processo para instalações adicionais (apartir da segunda instalação)
